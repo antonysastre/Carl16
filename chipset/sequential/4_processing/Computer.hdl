@@ -1,5 +1,5 @@
 /**
- * The Ant16 computer board, including CPU, ROM and RAM.
+ * The Carl16 computer board, including CPU, ROM and RAM.
  * When reset is 0, the program stored in ROM executes.
  * When reset is 1, the execution restarts. 
  * To start execution, reset must be set to "up" (1) and "down" (0).

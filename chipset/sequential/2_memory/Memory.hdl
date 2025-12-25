@@ -1,5 +1,5 @@
 /**
- * The complete address space of the Ant16 computer's memory,
+ * The complete address space of the Carl16 computer's memory,
  * including RAM and memory-mapped I/O.
 
  * The chip facilitates read and write operations, as follows:
